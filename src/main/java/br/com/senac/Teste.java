@@ -3,7 +3,7 @@ package br.com.senac;
 public class Teste {
     public void teste(){
 
-        System.out.println("Teste");
+        System.out.println("Teste1234");
 
     }
 }
